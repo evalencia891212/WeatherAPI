@@ -1,0 +1,6 @@
+C:\Users\Evc\source\repos\APIWeather\DataAcces\bin\Release\APIWeather.DataAcces.dll
+C:\Users\Evc\source\repos\APIWeather\DataAcces\bin\Release\APIWeather.DataAcces.pdb
+C:\Users\Evc\source\repos\APIWeather\DataAcces\obj\Release\APIWeather.DataAcces.csprojAssemblyReference.cache
+C:\Users\Evc\source\repos\APIWeather\DataAcces\obj\Release\APIWeather.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Evc\source\repos\APIWeather\DataAcces\obj\Release\APIWeather.DataAcces.dll
+C:\Users\Evc\source\repos\APIWeather\DataAcces\obj\Release\APIWeather.DataAcces.pdb

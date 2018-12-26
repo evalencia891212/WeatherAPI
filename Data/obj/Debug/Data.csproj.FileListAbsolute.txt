@@ -1,0 +1,13 @@
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Data.dll
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Data.pdb
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\DataAcces.dll
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Entities.dll
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Util.dll
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\DataAcces.pdb
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Entities.pdb
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\bin\Debug\Util.pdb
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\obj\Debug\Data.dll
+D:\Proyecto\Punto de venta\Facturacion-Guillermo-2015-08-27\Data\obj\Debug\Data.pdb

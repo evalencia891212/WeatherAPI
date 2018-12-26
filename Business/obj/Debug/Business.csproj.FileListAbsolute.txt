@@ -1,0 +1,15 @@
+D:\Proyecto\Punto de venta\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Proyecto\Punto de venta\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Proyecto\Punto de venta\Business\bin\Debug\Business.dll
+D:\Proyecto\Punto de venta\Business\bin\Debug\Business.pdb
+D:\Proyecto\Punto de venta\Business\bin\Debug\DataAcces.dll
+D:\Proyecto\Punto de venta\Business\bin\Debug\Entities.dll
+D:\Proyecto\Punto de venta\Business\bin\Debug\DataAcces.pdb
+D:\Proyecto\Punto de venta\Business\bin\Debug\Entities.pdb
+D:\Proyecto\Punto de venta\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Proyecto\Punto de venta\Business\obj\Debug\Business.dll
+D:\Proyecto\Punto de venta\Business\obj\Debug\Business.pdb
+D:\Proyecto\Punto de venta\Business\bin\Debug\Data.dll
+D:\Proyecto\Punto de venta\Business\bin\Debug\Util.dll
+D:\Proyecto\Punto de venta\Business\bin\Debug\Data.pdb
+D:\Proyecto\Punto de venta\Business\bin\Debug\Util.pdb

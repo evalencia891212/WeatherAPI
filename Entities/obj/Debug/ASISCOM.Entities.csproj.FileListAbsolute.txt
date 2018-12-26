@@ -1,0 +1,12 @@
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\bin\Debug\ASISCOM.Entities.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\bin\Debug\ASISCOM.Entities.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.csprojAssemblyReference.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.pdb
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\bin\Debug\ASISCOM.Entities.dll
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\bin\Debug\ASISCOM.Entities.pdb
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.csprojAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.dll
+C:\Users\Emmanuel\source\repos\ASISCOM.Service\Entities\obj\Debug\ASISCOM.Entities.pdb

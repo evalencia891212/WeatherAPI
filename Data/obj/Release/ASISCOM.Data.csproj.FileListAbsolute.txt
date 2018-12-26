@@ -1,0 +1,11 @@
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.Data.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.Data.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.DataAcces.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.Entities.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.DataAcces.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\bin\Release\ASISCOM.Entities.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\obj\Release\ASISCOM.Data.csprojAssemblyReference.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\obj\Release\ASISCOM.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\obj\Release\ASISCOM.Data.csproj.CopyComplete
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\obj\Release\ASISCOM.Data.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Data\obj\Release\ASISCOM.Data.pdb

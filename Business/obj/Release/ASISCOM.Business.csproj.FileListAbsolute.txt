@@ -1,0 +1,13 @@
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Business.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Business.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Data.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.DataAcces.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Entities.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.DataAcces.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Data.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\bin\Release\ASISCOM.Entities.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\obj\Release\ASISCOM.Business.csprojAssemblyReference.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\obj\Release\ASISCOM.Business.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\obj\Release\ASISCOM.Business.csproj.CopyComplete
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\obj\Release\ASISCOM.Business.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\Business\obj\Release\ASISCOM.Business.pdb

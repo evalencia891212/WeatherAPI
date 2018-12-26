@@ -1,0 +1,6 @@
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\bin\Release\ASISCOM.DataAcces.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\bin\Release\ASISCOM.DataAcces.pdb
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\obj\Release\ASISCOM.DataAcces.csprojAssemblyReference.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\obj\Release\ASISCOM.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\obj\Release\ASISCOM.DataAcces.dll
+C:\Users\Emmanuelon\source\repos\ASISCOM.Service\DataAcces\obj\Release\ASISCOM.DataAcces.pdb
